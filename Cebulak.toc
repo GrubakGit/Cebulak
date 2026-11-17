@@ -1,0 +1,14 @@
+## Interface: 16001
+## Title: |cff00ff00Cebulak|r - Waylaid Crate Optimizer
+## Notes: Optymalizator skrzyń Waylaid Crate bazujący na Full Scanie z Auctionatora (WoW Forever).
+## Notes-plPL: Błyskawiczny kalkulator najtańszych skrzyń Waylaid i Merchant's Favor na podstawie cen z Auctionator.
+## Author: Grubak
+## Version: 1.0.0
+## Dependencies: Auctionator
+## SavedVariables: CebulakDB
+## IconTexture: Interface\Icons\INV_Box_01
+
+Data.lua
+Locales.lua
+Core.lua
+UI.lua

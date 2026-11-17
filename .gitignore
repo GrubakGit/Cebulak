@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+
+# IDE / Editors
+.vscode/
+.idea/
+
+# Saved Variables / WTF (local user files)
+*.bak
